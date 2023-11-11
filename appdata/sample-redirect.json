@@ -1,8 +1,8 @@
 {
   "redirect": {
+    "title": "There's Something Blue!",
     "message": "Check this out",
     "button": "Go See",
     "url": "https://apple.com"
   }
 }
-
