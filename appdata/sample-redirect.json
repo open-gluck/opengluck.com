@@ -1,1 +1,8 @@
-{ "redirect": { "message": "Check this out", "url": "https://apple.com" } }
+{
+  "redirect": {
+    "message": "Check this out",
+    "button": "Go See",
+    "url": "https://apple.com"
+  }
+}
+
